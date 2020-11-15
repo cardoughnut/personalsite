@@ -1,0 +1,25 @@
+@import '~antd/dist/antd.css';
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+.name{
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-size: 40px;
+    background-color: white;
+
+}
+
+.menu{
+    text-align: center;
+}
+
+.card{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.text{
+    padding-top: 5%;
+}
